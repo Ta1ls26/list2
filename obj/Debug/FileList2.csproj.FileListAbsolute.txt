@@ -1,0 +1,13 @@
+C:\Users\acer\source\repos\FileList2\bin\Debug\FileList2.exe.config
+C:\Users\acer\source\repos\FileList2\bin\Debug\FileList2.exe
+C:\Users\acer\source\repos\FileList2\bin\Debug\FileList2.pdb
+C:\Users\acer\source\repos\FileList2\bin\Debug\MetroFramework.Design.dll
+C:\Users\acer\source\repos\FileList2\bin\Debug\MetroFramework.dll
+C:\Users\acer\source\repos\FileList2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.Form1.resources
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.Properties.Resources.resources
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.csproj.CopyComplete
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.exe
+C:\Users\acer\source\repos\FileList2\obj\Debug\FileList2.pdb
